@@ -25,11 +25,13 @@ The model was trained using features like:
 - Streamlit
 
 ## 📁 How to Run Locally
-```bash
+``bash
 git clone https://github.com/MohamedAlaaAhmed/loan-prediction-app.git
 cd loan-prediction-app
 pip install -r requirements.txt
 streamlit run app.py
+
+
 
 ## 👤 Author
 MohamedAlaaAhmed
